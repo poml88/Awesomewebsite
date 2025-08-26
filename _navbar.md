@@ -1,1 +1,0 @@
-* [Français](/fr/home.md)
